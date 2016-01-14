@@ -14,15 +14,15 @@ Subtly indicating the vim state you are currently in without being too obnoxious
 
 ### git support
 
-Very inspired by pure. Following indicators are available:
-
 ![git](images/git.png)
+
+Very inspired by pure. Following indicators are available:
 
 Indicator | Meaning
 ----------|------------------------
 `⇡`       | x commits ahead
 `⇣`       | x commits behind
-`.`       | x files stages
+`.`       | x files staged
 `+`       | x dirty files present
 `*`       | untracked files present
 
